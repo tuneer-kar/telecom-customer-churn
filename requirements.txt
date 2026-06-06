@@ -1,0 +1,8 @@
+the requirements to run this project is:
+
+pandas
+scikit-learn
+imbalanced-learn
+streamlit
+joblib
+
